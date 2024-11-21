@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сканер QR</string>
+    <string name="scan_button">Сканувати QR-код</string>
+    <string name="result_title">Результат</string>
+    <string name="ok_button">Добре</string>
+</resources>
